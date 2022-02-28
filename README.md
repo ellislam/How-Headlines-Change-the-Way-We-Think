@@ -1,4 +1,4 @@
-# How-Headlines-Change-the-Way-We-Think
+# How Headlines Change the Way We Think
 
 ## Introduction
 Headlines are vital in both capturing readers’ attention and
