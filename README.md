@@ -1,10 +1,5 @@
 # How-Headlines-Change-the-Way-We-Think
 
-## Table of contents
-* [Introduction](#introduction)
-* [Data](#data)
-* [Technologies](#technologies)
-
 ## Introduction
 Headlines are vital in both capturing readers’ attention and
 in influencing their online reading experience of news. In
