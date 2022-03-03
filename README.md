@@ -17,6 +17,21 @@ In this project,  historical news headlines from Reddit WorldNews Channel will b
 
 For stock data,  Dow Jones Industrial Average (DJIA) is used to "prove the concept". (**Range: 2008-08-08 to 2016-07-01**). 
 
+## Library Used
+```
+import pandas as pd
+import numpy as np
+import seaborn as sn
+import matplotlib.pyplot as plt
+%matplotlib inline
+import statsmodels.api as smf
+from scipy.stats import chi2_contingency
+from textblob import TextBlob
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import roc_curve, auc, roc_auc_score
+```
+
 ## Technologies
 This project is created with:
 * Jupyter Notebook 6.0.3
